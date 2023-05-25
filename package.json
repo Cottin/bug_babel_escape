@@ -1,0 +1,17 @@
+{
+  "name": "bug_babel_escape",
+  "version": "0.1.0",
+  "description": "Let's you code coffee script using _ like it was 2014 again",
+  "scripts": {
+    "test": "vitest --globals"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "babel-plugin-tester": "^11.0.4",
+    "vite": "^4.1.1",
+    "vitest": "^0.28.4"
+  },
+  "dependencies": {
+  }
+}
